@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#aboutsite{
+    display: flex;
+    flex-direction: column;
+    background-color: #ECF0F1 ;
+
+    
+
+}
+#banner{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    background-image: url(img/banner11.jpg);
+    width: 100%;
+    height: 20vh;
+    background-size: cover;
+    background-position: center;
+   }
+ .heading{
+    font-size: 40px;
+    padding: 0.3cm 15.5cm;
+    color: #fff ;
+}
+ #info{
+    
+    
+    padding: 30px 40px;
+   
+}
+#info #span1{
+    padding-left:30px;
+}
+.list{
+
+padding: 0px 40px;
+}
+.list span{
+    color: #A93226 ;
+}
+#none{
+    padding: 2px 40px;
+}
+#none1{
+    padding-left: 100px;
+    padding-top: 30px;
+}

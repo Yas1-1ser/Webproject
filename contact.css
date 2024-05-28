@@ -1,0 +1,46 @@
+.inform{
+    display: flex;
+    flex-direction: row;
+     
+}
+#banner{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    background-image: url(img/banner44.png);
+    width: 100%;
+    height: 40vh;
+    background-size: cover;
+    background-position: center;
+   }
+#contact{
+    color: #fff;
+}
+#context{
+    color: #fff;
+}
+#head-page{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #EBEDEF;
+
+}
+.map #location{
+    text-align: center;
+    font-size: 30px;
+}
+.list span{
+    font-size: 20px;
+    color: #839192 ;
+}
+.list li{
+    list-style: none;
+    display: flex;
+    padding: 20px 0;
+}
+.list #tax{
+    padding-top:250px ;
+    font-size: 23px;
+}
